@@ -67,9 +67,13 @@ I enjoy turning ideas into practical software—from polished web experiences to
 
 ## 📊 GitHub at a glance
 
+Rather than rely on third-party stats cards that can fail to load, here are direct links to my GitHub work:
+
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mahfuz-saim&show_icons=true&hide_border=true&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1&bg_color=0F172A&rank_icon=github" alt="Mahfuz's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahfuz-saim&layout=compact&hide_border=true&title_color=38BDF8&text_color=CBD5E1&bg_color=0F172A&langs_count=6" alt="Most used languages" />
+
+<a href="https://github.com/mahfuz-saim?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-Browse%20repositories-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Browse repositories" /></a>
+<a href="https://github.com/mahfuz-saim?tab=overview"><img src="https://img.shields.io/badge/ACTIVITY-View%20GitHub%20profile-0F766E?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub activity" /></a>
+
 </div>
 
 ## 🤝 Let's connect
